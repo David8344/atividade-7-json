@@ -52,3 +52,4 @@ console.log(typeof objData);
 
 objData.map((pessoa)=>{
     console.log(pessoa.nome);
+});
