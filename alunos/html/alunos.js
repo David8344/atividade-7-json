@@ -49,3 +49,6 @@ const objData = JSON.parse(jsonData);
 
 console.log(objData);
 console.log(typeof objData);
+
+objData.map((pessoa)=>{
+    console.log(pessoa.nome);
